@@ -1,4 +1,4 @@
-package listMethods;
+package listaMetodos;
 
 import java.util.Scanner;
 
@@ -12,7 +12,6 @@ public class volumePiramide {
         double alturaP = sc.nextDouble();
 
         System.out.println("volume da piramide: " + volPiramide(baseP, alturaP));
-
     }
 
     public static double volPiramide(double base, double altura) {

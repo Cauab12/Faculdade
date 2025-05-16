@@ -1,4 +1,4 @@
-package listMethods;
+package listaMetodos;
 
 import java.util.Scanner;
 
